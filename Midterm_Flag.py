@@ -16,7 +16,7 @@ def bgr(t):
     t.end_fill()
 
 def sunray(t):
-    t.color("black")
+    t.color("yellow")
     t.begin_fill()
     for i in range(3):
         t.forward(10)
